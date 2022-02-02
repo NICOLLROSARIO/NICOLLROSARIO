@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NICOLLROSARIO
+- 👀 I’m interested in learning new frameworks.
+- 🌱 I’m currently learning React and Git.
+- 💞️ I’m looking to collaborate in open source projects.
+- 📫 How to reach me ...
